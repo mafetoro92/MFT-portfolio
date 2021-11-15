@@ -11,8 +11,8 @@ function Portfolio(info) {
                 <p>{info.language}</p>
                 <img className={styles.projectImg} src={info.img} alt="img"/>
                 <div className={styles.projectButtons}>
-                    <a className={styles.projectA} href={info.github}> <button>GitHub</button></a>
-                    <a className={styles.projectA} href={info.deploy}><button>View project</button></a>
+                    <a className={styles.projectA} href={info.github} target="_blank=" > <button>GitHub</button></a>
+                    <a className={styles.projectA} href={info.deploy} target="_blank=" ><button>View project</button></a>
                 </div>
                 
             </div>

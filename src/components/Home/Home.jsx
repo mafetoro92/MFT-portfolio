@@ -1,7 +1,6 @@
 import React from 'react'
 import styles from './Home.module.css'
 import photo from '../../assets/mafe_first.png'
-import cv from '../../assets/MariaToro.pdf'
 import Typewriter from "typewriter-effect"
 
 function Home() {

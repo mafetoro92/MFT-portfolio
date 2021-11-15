@@ -100,7 +100,7 @@
 
 /* responsive part */
 
-@media (max-width: 650px) {
+@media (max-width: 810px) {
     .mftit {
         width: 85px;
     }
@@ -114,7 +114,7 @@
 
     }
     .picture {
-        width: 50%;
+        width: 40%;
         height: 220px;
     }
     .text {

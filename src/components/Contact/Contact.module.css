@@ -132,7 +132,7 @@
     margin: 16px 0;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 810px) {
     .pContac {
         text-align: center;
         width: 85%;

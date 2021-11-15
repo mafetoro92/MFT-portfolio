@@ -109,7 +109,7 @@ h1 {
     margin-right: 420px;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 810px) {
     .fonts {
         font-size: 70px;
     }
