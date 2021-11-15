@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+.containerFather {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.Main {
+    background-color: black;
+}
+
+.MainTitle {
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+h1 {
+    margin-top: 100px;
+}
+
+@media (max-width: 650px) {
+    .pProject {
+        text-align: center;
+        width: 85%;
+        margin: auto;
+    }
+    .containerFather{
+        flex-direction:column;
+    }
+}

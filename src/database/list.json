@@ -1,0 +1,56 @@
+
+[
+    {
+        "title": "Tribute website",
+        "language": "HTML5-CSS",
+        "img":"https://i.ibb.co/wCWL0zC/webtributo.png",
+        "gitHub":"https://github.com/mafetoro92/Web-Tribute",
+        "deploy":"https://angry-lalande-3235dd.netlify.app/"
+    },
+    {
+        "title": "50 challenges days",
+        "language": "HTML-CSS-JS",
+        "img":"https://i.ibb.co/h7bQ8FX/50dayschallenges.png",
+        "gitHub":"https://github.com/mafetoro92/25-challenges-",
+        "deploy":"https://serene-carson-42a98f.netlify.app/"
+    },
+    {
+        "title": "Real customer",
+        "language": "HTML-CSS-JS-REACT",
+        "img":"https://i.ibb.co/hVdYc1Y/Realclient.png",
+        "gitHub":"https://github.com/mafetoro92/web-side-Eli-Arte",
+        "deploy":"https://modest-curie-e6d77c.netlify.app/"
+    },
+    {
+        "title": "Tetris Game",
+        "language": "HTML-JS",
+        "img":"https://i.ibb.co/nCPwwsR/tetres.png",
+        "gitHub":"https://github.com/mafetoro92/Tetris",
+        "deploy":"https://mafetoro92.github.io/Tetris/"
+        
+    },
+    {
+        "title": "Youtube_practice",
+        "language": "PYTHON",
+        "img":"https://i.ibb.co/SdNmn85/PYTHON.png",
+        "gitHub":"https://github.com/mafetoro92/youtube_practice",
+        "deploy":"https://github.com/mafetoro92/youtube_practice"    
+    },
+    {
+        "title": "Sqlite",
+        "language": "PYTHON - SQLLITE",
+        "img":"https://i.ibb.co/LtHYdDd/SQLLITE.png",
+        "gitHub":"https://github.com/mafetoro92/SQL-Project",
+        "deploy":"https://github.com/mafetoro92/SQL-Project"
+        
+    },
+    {
+        "title": "Django api MercaTodo",
+        "language": "PYTHON-DJANGO",
+        "img":"https://i.ibb.co/fQfxrWm/Django.png",
+        "gitHub":"https://github.com/mafetoro92/Django-project-MercaTodo",
+        "deploy":"https://apimercatodo.herokuapp.com/api/products/"
+        
+    }
+]
+

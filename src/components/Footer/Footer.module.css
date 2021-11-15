@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 73%);
+    height: 200px;
+}
+
+.righs {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 35px;
+    color: white;
+    margin-top: -10px;
+}
+
+.righsAuthor {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 28px;
+    color: white;
+    margin-top: 20px;
+}
+
+.footerInfo {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-top: 20px;
+}
+
+@media (max-width: 650px) {
+    .footer{
+        height:250px;
+    }
+    .righs {
+        text-align: center;
+        font-size: 23px;
+        margin-top: 30px;
+    }
+    .righsAuthor {
+        text-align: center;
+        font-size: 18px;
+    }
+    .footerInfo {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+}

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* We setup navbar general styles */
+
+.nav {
+    width: 100%;
+    height: 100px;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    line-height: 80px;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 30px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 999;
+}
+
+.logo {
+    padding: 15px 0 0 15px;
+}
+
+img {
+    width: 110px;
+    height: 80px;
+}
