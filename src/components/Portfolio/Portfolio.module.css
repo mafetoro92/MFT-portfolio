@@ -20,6 +20,14 @@
     margin-bottom: 20px;
     justify-content: space-around;
     font-family: 'Rajdhani', sans-serif;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+
+.containerInfo:hover {
+    transform: scale(1.1);
+    background-color:rgba(229,229,229,0.9)
 }
 
 .projectTitle {
@@ -34,6 +42,11 @@ p {
 .projectImg {
     width: 100%;
     height: 80%;
+}
+
+.projectImg:hover {
+    opacity: 1;
+    visibility: visible;
 }
 
 .projectA {
@@ -51,6 +64,7 @@ p {
     border-radius: 20px;
     width: 100px;
     box-shadow: 3px 3px 15px -8px black;
+    cursor: pointer;
 }
 
 .projectButtons {

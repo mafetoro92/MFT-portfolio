@@ -33,7 +33,7 @@ h1 {
 .mafePicture {
     width: 50%;
     height: 50%;
-    /* border-radius: 50%; */
+    border-radius: 6px;
 }
 
 .sudTitle {

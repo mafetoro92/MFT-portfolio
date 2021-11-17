@@ -51,6 +51,7 @@ h1 {
     justify-content: space-around;
     padding: 20px;
     transition: all 1s ease;
+    border-radius:6px;
 }
 
 .faSkills:hover {
