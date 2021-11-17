@@ -71,8 +71,8 @@
 }
 
 .picture {
-    width: 90%;
-    height: 90%;
+    width: 500px;
+    height: 500px;
     border-radius: 50%;
 }
 
@@ -106,16 +106,17 @@
     }
     .intro {
         flex-direction: column;
+        height:80vh;
+        justify-content:center;
     }
     .image {
-        /* background-color:red; */
         flex:0;
         width: 100%;
 
     }
     .picture {
-        width: 40%;
-        height: 220px;
+        width: 300px;
+        height: 300px;
     }
     .text {
         text-align: center;

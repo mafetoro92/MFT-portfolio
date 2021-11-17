@@ -59,7 +59,7 @@ p {
     justify-content: space-around;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 810px) {
     .containerInfo {
         width: 300px;
         height: 510px;
@@ -67,7 +67,7 @@ p {
     .projectTitle {
         margin-top: 10px;
     }
-    .projectA button{
+    .projectA button {
         margin-bottom: 10px;
     }
 }
