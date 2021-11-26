@@ -12,6 +12,8 @@ import PyBuc from '../../assets/pyBuc.png'
 import PyCom from '../../assets/pycom.png'
 import programate from '../../assets/programate.png'
 import upb from '../../assets/upb.png'
+import freeCodeCamp from '../../assets/freecodecamp.png'
+import Udemy from '../../assets/Udemy.pdf'
 
 
 function Skills() {
@@ -49,12 +51,12 @@ function Skills() {
 
             <div className={styles.faSkills}>
                 <img src={PyBuc} className={styles.Volunteer} alt="pybucLogo"/>
-                <h2 className={styles.VolunteerText}>Python Bucaramanga.</h2>
+                <h2 className={styles.VolunteerTextLink}> <a href="https://www.meetup.com/PythonBucaramanga/members/"  target="_blank=">Python Bucaramanga.</a> </h2>
             </div>
 
             <div className={styles.faSkills}>
                 <img src={PyCom} className={styles.Volunteer} alt="pycom"/>
-                <h2 className={styles.VolunteerText}>PyCon 2021 Colombia.</h2>
+                <h2 className={styles.VolunteerTextLink}> <a href="https://2021.pycon.co/equipo/"  target="_blank=">PyCon 2021 Colombia.</a></h2>
             </div>
 
             <div className={styles.faSkills}>
@@ -73,7 +75,7 @@ function Skills() {
 
             <div className={styles.faSkills}>
                 <FaFreeCodeCamp className={styles.certificationsSpecial}/>
-                <h2 className={styles.sudTitle}>FreeCodeCamp, Scientific Computing with Python. </h2>
+                <h2 className={styles.sudTitle}> <a href={freeCodeCamp} target="_blank=">FreeCodeCamp, Scientific Computing with Python.</a>  </h2>
             </div>
 
             <div className={styles.faSkills}>
@@ -83,7 +85,7 @@ function Skills() {
 
             <div className={styles.faSkills}>
                 <img src={udemy} className={styles.bookcamp} alt="udemy"/>
-                <h2 className={styles.VolunteerText}>Udemy, Python Programming. </h2>
+                <h2 className={styles.sudTitle}> <a href={Udemy} target="_blank=">Udemy, Python Programming.</a>  </h2>
             </div>
             
         </div>

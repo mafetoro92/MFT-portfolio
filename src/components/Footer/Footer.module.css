@@ -21,6 +21,10 @@
     color: white;
     margin-top: 20px;
 }
+.righsAuthor a{
+    color: white;
+    text-decoration: none;
+}
 
 .footerInfo {
     font-family: 'Rajdhani', sans-serif;

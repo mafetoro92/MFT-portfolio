@@ -35,14 +35,11 @@ function Contact() {
                     <h2 className={styles.infoGeneral}>Gmail</h2>
                     <h2 className={styles.infoGeneral}>mtoro0926@gmail.com</h2>
                 </div>
-                <div className={styles.info}>
-                    <h2 className={styles.infoGeneral}>Phone</h2>
-                    <h2 className={styles.infoGeneral}>+57 324-5627089</h2>
-                </div>
+                
             </div>
             <div className={styles.socialMedia}>
                 <a className={styles.social} href="https://twitter.com/MafeToro7" target="_blank=">  <li className={styles.socialTwitter}><FaTwitter/></li></a>
-                <a className={styles.social} href="https://www.linkedin.com/in/maria-toro-5a0339201/"  target="_blank=" ><li className={styles.socialLinkedIn}><FaLinkedin/></li></a>
+                <a className={styles.social} href="https://www.linkedin.com/in/mafe-toro/"  target="_blank=" ><li className={styles.socialLinkedIn}><FaLinkedin/></li></a>
                 <a className={styles.social} href="https://github.com/mafetoro92"  target="_blank=" ><li className={styles.socialGithub}><FaGithub/></li></a>
                 <a className={styles.social} href="https://www.instagram.com/mafetoro26/"  target="_blank=" ><li className={styles.socialInstagram}><FaInstagram/></li></a>
             </div>

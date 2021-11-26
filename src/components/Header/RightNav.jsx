@@ -4,7 +4,7 @@ import {FaTwitter} from 'react-icons/fa'
 import {FaLinkedin} from 'react-icons/fa'
 import {FaGithub} from 'react-icons/fa'
 import {FaInstagram} from 'react-icons/fa'
-import cv from '../../assets/MariaToro.pdf'
+import cv from '../../assets/MafeToro.pdf'
 import {Link} from "react-router-dom"
 
 
@@ -51,7 +51,7 @@ function RightNav({open}) {
                 <Link style={{ textDecoration: 'none' }} to="/contact"> <li>contact</li></Link>
                 <a  style={{ textDecoration: 'none' }} href={cv} target="_blank=" ><li>cv/resume</li></a> 
                 <a  href="https://twitter.com/MafeToro7" target="_blank=">  <li><FaTwitter/></li></a>
-                <a  href="https://www.linkedin.com/in/maria-toro-5a0339201/"  target="_blank=" ><li><FaLinkedin/></li></a>
+                <a  href="https://www.linkedin.com/in/mafe-toro/"  target="_blank=" ><li><FaLinkedin/></li></a>
                 <a  href="https://github.com/mafetoro92"  target="_blank=" ><li><FaGithub/></li></a>
                 <a  href="https://www.instagram.com/mafetoro26/"  target="_blank=" ><li><FaInstagram/></li></a>
         </Ul>
