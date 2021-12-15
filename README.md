@@ -4,3 +4,4 @@ Welcome to my portfolio repository. I created this one with **React** and some o
 
 Link: https://mafetoro92.github.io/MFT-portfolio/
 
+<img src="https://github.com/mafetoro92/MFT-portfolio/blob/master/src/picture.png">
