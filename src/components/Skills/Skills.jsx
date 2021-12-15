@@ -82,7 +82,7 @@ function Skills() {
 
             <div className={styles.faSkills}>
                 <img src={programate} className={styles.bookcamp} alt="bookcamp"/>
-                <h2 className={styles.sudTitle}> <a href={Bootcamp} target="_blank"> Programate, Fullstack Developer. </a> </h2>
+                <h2 className={styles.sudTitle}> <a href={Bootcamp} target="_blank="> Programate, Fullstack Developer. </a> </h2>
             </div>
 
             <div className={styles.faSkills}>
