@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MFT-portfolio/static/css/main.7f128ad3.chunk.css",
-    "main.js": "/MFT-portfolio/static/js/main.203a2871.chunk.js",
-    "main.js.map": "/MFT-portfolio/static/js/main.203a2871.chunk.js.map",
+    "main.js": "/MFT-portfolio/static/js/main.8cd467a1.chunk.js",
+    "main.js.map": "/MFT-portfolio/static/js/main.8cd467a1.chunk.js.map",
     "runtime-main.js": "/MFT-portfolio/static/js/runtime-main.22de8feb.js",
     "runtime-main.js.map": "/MFT-portfolio/static/js/runtime-main.22de8feb.js.map",
     "static/js/2.732c77f6.chunk.js": "/MFT-portfolio/static/js/2.732c77f6.chunk.js",
@@ -10,8 +10,10 @@
     "index.html": "/MFT-portfolio/index.html",
     "static/css/main.7f128ad3.chunk.css.map": "/MFT-portfolio/static/css/main.7f128ad3.chunk.css.map",
     "static/js/2.732c77f6.chunk.js.LICENSE.txt": "/MFT-portfolio/static/js/2.732c77f6.chunk.js.LICENSE.txt",
+    "static/media/InglesCertificado.e6adaf9b.jpg": "/MFT-portfolio/static/media/InglesCertificado.e6adaf9b.jpg",
     "static/media/MafeToro.f4568bdf.pdf": "/MFT-portfolio/static/media/MafeToro.f4568bdf.pdf",
     "static/media/Udemy.70983ed0.pdf": "/MFT-portfolio/static/media/Udemy.70983ed0.pdf",
+    "static/media/certificadoProgramate.c0c76441.jpg": "/MFT-portfolio/static/media/certificadoProgramate.c0c76441.jpg",
     "static/media/freecodecamp.beb34508.png": "/MFT-portfolio/static/media/freecodecamp.beb34508.png",
     "static/media/logo.cc89cd79.png": "/MFT-portfolio/static/media/logo.cc89cd79.png",
     "static/media/mafe_first.52e62731.png": "/MFT-portfolio/static/media/mafe_first.52e62731.png",
@@ -25,6 +27,6 @@
     "static/js/runtime-main.22de8feb.js",
     "static/js/2.732c77f6.chunk.js",
     "static/css/main.7f128ad3.chunk.css",
-    "static/js/main.203a2871.chunk.js"
+    "static/js/main.8cd467a1.chunk.js"
   ]
 }
