@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MFT-portfolio/static/css/main.7f128ad3.chunk.css",
-    "main.js": "/MFT-portfolio/static/js/main.8cd467a1.chunk.js",
-    "main.js.map": "/MFT-portfolio/static/js/main.8cd467a1.chunk.js.map",
+    "main.js": "/MFT-portfolio/static/js/main.7f27287e.chunk.js",
+    "main.js.map": "/MFT-portfolio/static/js/main.7f27287e.chunk.js.map",
     "runtime-main.js": "/MFT-portfolio/static/js/runtime-main.22de8feb.js",
     "runtime-main.js.map": "/MFT-portfolio/static/js/runtime-main.22de8feb.js.map",
     "static/js/2.732c77f6.chunk.js": "/MFT-portfolio/static/js/2.732c77f6.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.22de8feb.js",
     "static/js/2.732c77f6.chunk.js",
     "static/css/main.7f128ad3.chunk.css",
-    "static/js/main.8cd467a1.chunk.js"
+    "static/js/main.7f27287e.chunk.js"
   ]
 }
