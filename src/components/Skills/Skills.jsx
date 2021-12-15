@@ -14,6 +14,8 @@ import programate from '../../assets/programate.png'
 import upb from '../../assets/upb.png'
 import freeCodeCamp from '../../assets/freecodecamp.png'
 import Udemy from '../../assets/Udemy.pdf'
+import Bootcamp from '../../assets/certificadoProgramate.jpg'
+import English from '../../assets/InglesCertificado.jpg'
 
 
 function Skills() {
@@ -61,7 +63,7 @@ function Skills() {
 
             <div className={styles.faSkills}>
                 <img src={programate} className={styles.VolunteerA} alt="programate"/>
-                <h2 className={styles.VolunteerText}>Programate, English Teacher.</h2>
+                <h2 className={styles.VolunteerTextLink}> <a href={English} target="_blank="> Programate, English Teacher. </a>  </h2>
             </div>
 
             <div className={styles.licensesTitle}>
@@ -80,7 +82,7 @@ function Skills() {
 
             <div className={styles.faSkills}>
                 <img src={programate} className={styles.bookcamp} alt="bookcamp"/>
-                <h2 className={styles.VolunteerText}>Programate, Fullstack Developer.</h2>
+                <h2 className={styles.sudTitle}> <a href={Bootcamp} target="_blank"> Programate, Fullstack Developer. </a> </h2>
             </div>
 
             <div className={styles.faSkills}>
